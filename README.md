@@ -7,5 +7,5 @@ This project contains 2 modules. One is a library with the implementation for th
 
 ## Resources:
 The following learning resources were used as a guide for this project:
-* Spring boot multi-module documentation: https://spring.io/guides/gs/multi-module/#scratch
-* Spring tutorial: https://www.youtube.com/watch?v=gq4S-ovWVlM
+* **Spring boot multi-module documentation:** https://spring.io/guides/gs/multi-module/#scratch
+* **Spring tutorial:** https://www.youtube.com/watch?v=gq4S-ovWVlM
