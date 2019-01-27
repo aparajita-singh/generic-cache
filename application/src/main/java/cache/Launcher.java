@@ -5,6 +5,8 @@ import main.java.util.Constants;
 
 public class Launcher {
     public static void main(String[] args) {
-        System.out.println(new GenericCache().initializeCache(Constants.CacheType.QUEUE));
+        GenericCache cache = new GenericCache(1, 10);
+        cache.initializeCollector(Constants.CacheType.QUEUE);
+        System.out.println(cache.toString());
     }
 }
